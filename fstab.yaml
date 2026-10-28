@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p232672-e2347065.adobeaemcloud.com/bin/franklin.delivery/sri-adbe/aaa-cf-test/main"
+    url: "https://author-p153710-e1614654.adobeaemcloud.com/bin/franklin.delivery/sri-adbe/aaa-cf-test/main"
     type: "markup"
     suffix: ".html"
